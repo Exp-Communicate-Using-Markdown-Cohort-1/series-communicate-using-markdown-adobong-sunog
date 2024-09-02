@@ -9,3 +9,10 @@
 ```python
 print("hello world")
 ```
+
+## How to successfully graduate from university
+- [x] Enroll
+- [x] Study
+- [x] Network
+- [ ] ???
+- [ ] Profit
